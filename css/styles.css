@@ -4,3 +4,17 @@ body {
   margin: 0px;
   background-color: rgb(107, 137, 186);
 }
+
+
+.pond {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  align-items: center;
+
+}
+
+
+.menu {
+  border-radius: 50%;
+}
