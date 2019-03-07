@@ -4,6 +4,11 @@
   background-color: rgb (255, 255, 255);
 }
 
+.aboutbit {
+  text-align: left;
+  padding: 3rem 1.5rem;
+    background-color: rgb (255, 255, 255);
+}
 
 /*
 .btn-secondary{
@@ -48,6 +53,12 @@ p.lead{
 h3.display-4{
   font-style: oblique;
   font-stretch: semi-expanded;
+}
+
+img.photoframe {
+  border-radius: 50%;
+  width: 200px;
+  border: 10px solid mediumvioletred;
 }
 #description{
   text-align: center;
