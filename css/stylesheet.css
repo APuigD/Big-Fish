@@ -29,22 +29,33 @@ ul{
   flex-direction: row;
   justify-content: space-evenly;
 }
-h1{
-  font-family: impact;
+h1.display-1{
+  font-family: impact, sans-serif;
+  text-align: center;
+  padding: 0.4em;
 }
 h2 {
   text-align: center;
   padding: 1em;
 }
-
-
 h3{
   text-align: center;
-  padding: 1em;
+  padding-bottom: 1em;
 }
-
-
-
+p.lead{
+  font-style: oblique;
+}
+h3.display-4{
+  font-style: oblique;
+  font-stretch: semi-expanded;
+}
+#description{
+  text-align: center;
+}
+.col-sm{
+  text-align: center;
+  justify-content: space-evenly;
+}
 .babar {
     min-height: 300px;
     background-image: url("../images/york.jpg");
