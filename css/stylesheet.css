@@ -66,8 +66,11 @@ p.lead{
 }
 p.top{
   font-style: oblique;
-  font-size: 1.8em;
-
+  font-size: 1.6em;
+  text-align: center;
+}
+.text{
+  font-size: 1.1em;
 }
 
 h3.display-4{
