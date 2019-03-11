@@ -24,6 +24,16 @@ width:100%;
 position:absolute;
 }
 
+.mapamundi {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+#contact{
+  text-align: center;
+}
 /*
 .btn-secondary{
   background-color: rgb(10, 91, 145);
@@ -64,15 +74,6 @@ h3{
 p.lead{
   font-style: oblique;
 }
-p.top{
-  font-style: oblique;
-  font-size: 1.6em;
-  text-align: center;
-}
-.text{
-  font-size: 1.1em;
-}
-
 h3.display-4{
   font-style: oblique;
   font-stretch: semi-expanded;
@@ -237,3 +238,34 @@ body #myFooter{
    flex: 0 0 auto;
    -webkit-flex: 0 0 auto;
 }
+
+
+.amaga:link {
+  color: black;
+
+}
+
+.amaga:visited {
+  color: black;
+}
+
+.amaga:hover {
+  color: hotpink;
+  text-decoration: none;
+}
+
+.amunt {
+  text-align: left;
+}
+
+/*
+a:link {
+  font-weight: bold;
+}
+a:visited {
+  color: black;
+}
+a:hover {
+  color: hotpink;
+}
+*/
