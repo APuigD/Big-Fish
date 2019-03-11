@@ -238,3 +238,34 @@ body #myFooter{
    flex: 0 0 auto;
    -webkit-flex: 0 0 auto;
 }
+
+
+.amaga:link {
+  color: black;
+
+}
+
+.amaga:visited {
+  color: black;
+}
+
+.amaga:hover {
+  color: hotpink;
+  text-decoration: none;
+}
+
+.amunt {
+  text-align: left;
+}
+
+/*
+a:link {
+  font-weight: bold;
+}
+a:visited {
+  color: black;
+}
+a:hover {
+  color: hotpink;
+}
+*/
