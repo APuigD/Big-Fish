@@ -64,15 +64,6 @@ h3{
 p.lead{
   font-style: oblique;
 }
-p.top{
-  font-style: oblique;
-  font-size: 1.6em;
-  text-align: center;
-}
-.text{
-  font-size: 1.1em;
-}
-
 h3.display-4{
   font-style: oblique;
   font-stretch: semi-expanded;
