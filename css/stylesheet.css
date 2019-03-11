@@ -24,6 +24,13 @@ width:100%;
 position:absolute;
 }
 
+.mapamundi {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
 #contact{
   text-align: center;
 }
