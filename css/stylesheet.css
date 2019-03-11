@@ -24,6 +24,9 @@ width:100%;
 position:absolute;
 }
 
+#contact{
+  text-align: center;
+}
 /*
 .btn-secondary{
   background-color: rgb(10, 91, 145);
