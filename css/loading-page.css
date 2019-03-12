@@ -85,6 +85,7 @@ code was taken from- head to there for explanations of what each one means */
     width: 51%;
     height: 100%;
     background-color: teal;
+    /* comment out these two lines to get back to the changing effect */ 
     background-image: -webkit-linear-gradient(top, azure, teal ); /* Chrome 10-25, iOS 5+, Safari 5.1+ */
     background-image:         linear-gradient(to bottom,azure, teal); /* Chrome 26, Firefox 16+, IE 10+, Opera */
 
