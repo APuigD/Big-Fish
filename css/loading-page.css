@@ -84,14 +84,13 @@ code was taken from- head to there for explanations of what each one means */
     top: 0;
     width: 51%;
     height: 100%;
-    background-color: teal;
-    /* comment out these two lines to get back to the changing effect */ 
+    /* background-color: teal;
     background-image: -webkit-linear-gradient(top, azure, teal ); /* Chrome 10-25, iOS 5+, Safari 5.1+ */
-    background-image:         linear-gradient(to bottom,azure, teal); /* Chrome 26, Firefox 16+, IE 10+, Opera */
+  /*  background-image:         linear-gradient(to bottom,azure, teal); /* Chrome 26, Firefox 16+, IE 10+, Opera */
 
     z-index: 1000;
 }
-/*
+
 #loader-wrapper{
      background-color: #fff;
      -webkit-animation: random 5s infinite;
@@ -102,7 +101,7 @@ code was taken from- head to there for explanations of what each one means */
     20% { background-color: salmon; }
     35% { background-color: chocolate; }
   /*  45% { background-color: springgreen; } */
-  /*  50% { background-color: teal; }
+    50% { background-color: teal; }
     65% { background-color: black; }
 }
 } */
