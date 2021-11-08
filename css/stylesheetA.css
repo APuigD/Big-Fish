@@ -1,21 +1,15 @@
 .starter-template {
+  padding: 3rem 1.5rem;
   text-align: center;
   background-color: rgb (255, 255, 255);
 }
+
 
 
 .aboutbit {
   text-align: left;
   padding: 3rem 1.5rem;
     background-color: rgb (255, 255, 255);
-}
-
-.aboutbit a {
-  color: black;
-}
-.text {
-  font-size: 16px;
-
 }
 
 .map-container{
@@ -42,11 +36,6 @@ position:absolute;
 .column {
   float: left;
   width: 33.33%;
-}
-
-.column2 {
-  float: left;
-  width: 60%;
 }
 
 
@@ -77,15 +66,6 @@ ul{
   flex-direction: row;
   justify-content: space-evenly;
 }
-
-.ourstory ul{
-  list-style-type: none;
-  display: inline;
-}
-
-.card {
-
-}
 h1.display-1{
   font-family: impact, sans-serif;
   text-align: center;
@@ -101,22 +81,19 @@ h3{
 }
 p.lead{
   font-style: oblique;
-
 }
-
-.moto {
-    margin: 0;
-    position: relative;
-    text-align: left;
-    top: 30%;
-    }
-
 h3.display-4{
   font-style: oblique;
   font-stretch: semi-expanded;
 }
 
+#moto{
+  margin: 0;
+  position: absolute;
+  top: 40%;
+  vertical-align: bottom;
 
+}
 img.photoframe {
   border-radius: 50%;
   width: 200px;
@@ -134,7 +111,7 @@ img.photoframe {
   justify-content: space-evenly;
 }
 .babar {
-    min-height: 100px;
+    min-height: 150px;
     background-image: url("../images/york.jpg");
  background-attachment: fixed;
  background-position: center;
